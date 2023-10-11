@@ -1,6 +1,8 @@
-### Hi there 👋
 
-## Hi there, I am hamza rougani 👋
+### 👋 Hello, I'm [Your Name]
+🚀 Full Stack Developer | 💻 Ofppt Technicien Spécialisé Graduate
+
+🌐 Building web applications with a passion for coding
 
 ![stkeky](https://img.shields.io/badge/st-keky-03a9f4?style=flat-square)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fstkeky%2Fstkeky&count_bg=%2303A9F4&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
@@ -18,11 +20,43 @@ Trying to get things done!
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
 
-### 🔸 Spoken a bit
+### 🔸 Front-End:
 
-[![Kotlin](https://img.shields.io/badge/kotlin-black?style=flat-square&logo=kotlin)](https://kotlinlang.org/)
-[![Javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/)
-[![Typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)](https://www.typescriptlang.org/)
+
+
+[![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)](https://www.java.com/)
+[![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)](https://www.java.com/)
+[![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)](https://www.java.com/)
+[![Reactjs](https://img.shields.io/badge/Reactjs-black?style=for-the-badge&logo=React)](https://www.java.com/)
+[![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jQuery)](https://www.java.com/)
+
+### 🔸 Databases:
+
+
+
+[![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL)](https://www.java.com/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)](https://www.java.com/)
+
+
+### 🔸 UI/UX Design:
+
+[![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma)](https://www.java.com/)
+
+### 🔸 Version Control:
+
+
+
+[![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=Git)](https://www.java.com/)
+
+### 🔸 Project Management:
+
+
+
+[![trello](https://img.shields.io/badge/trello-black?style=for-the-badge&logo=trello)](https://www.java.com/)
+
+
+
+
 
 
 
