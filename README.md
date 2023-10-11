@@ -11,18 +11,17 @@
 [![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram)](https://instagram.com/st_keky/)
 [![Gmail](https://img.shields.io/badge/gmail-black?style=flat-square&logo=gmail)](mailto:st.keky@gmail.com)
 
-Trying to get things done!
-### 🔹 Actively speaking
-[![Scala](https://img.shields.io/badge/scala-black?style=for-the-badge&logo=scala)](https://www.scala-lang.org/)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=java)](https://www.java.com/)
-[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
+My skills and knowledge!
 ### 🔸 Front-End:
 [![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML5)](https://www.java.com/)
 [![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS3)](https://www.java.com/)
 [![Javascript](https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript)](https://www.java.com/)
 [![Reactjs](https://img.shields.io/badge/Reactjs-black?style=for-the-badge&logo=React)](https://www.java.com/)
 [![jQuery](https://img.shields.io/badge/jQuery-black?style=for-the-badge&logo=jQuery)](https://www.java.com/)
+### 🔸 Back-End:
+[![php](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://www.java.com/)
+[![laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://www.java.com/)
+[![nodejs](https://img.shields.io/badge/nodejs-black?style=for-the-badge&logo=nodejs)](https://www.java.com/)
 ### 🔸 Databases:
 [![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=MySQL)](https://www.java.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=MongoDB)](https://www.java.com/)
