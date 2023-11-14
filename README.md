@@ -1,5 +1,5 @@
 
-### 👋 Hello, I'm [Your Name]
+### 👋 Hello, I'm HAMZA ROUGANI
 🚀 Full Stack Developer | 💻 Ofppt Technicien Spécialisé Graduate
 
 🌐 Building web applications with a passion for coding
