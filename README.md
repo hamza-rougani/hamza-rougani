@@ -4,7 +4,7 @@
 
 🌐 Building web applications with a passion for coding
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/stkeky/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-black?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/hamza-rougani-4ab627294/)
 [![facebook](https://img.shields.io/badge/facebook-black?style=flat-square&logo=facebook)](https://linkedin.com/in/stkeky/)
 [![Github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)](https://github.com/stkeky)
 [![Instagram](https://img.shields.io/badge/instagram-black?style=flat-square&logo=instagram)](https://instagram.com/st_keky/)
